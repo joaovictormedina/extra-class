@@ -1,0 +1,1 @@
+{ "pattern": "^(feature|bugfix|hotfix|release)/[a-z0-9\\-]+$" }
